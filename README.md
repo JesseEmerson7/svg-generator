@@ -4,9 +4,9 @@
 
 ## Description
 
-This svg generator takes in information from the command line and generates a logo.svg file with the requested text, shape, and colors specified.
+This svg generator takes in information from the command line and generates a logo.svg file with the requested text, shape, and color specified.
 
-This program utilizes node.js, and third party module called inquirer.
+This program utilizes node.js, and a third party module called inquirer.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ To install all the needed modules listed in the package.json file please type "n
 
 ## Usage
 
-To use this project you can type "node index.js" into the command line and you will be prompted with a number of questions. Type in the text you would like to be included in your svg logo(up to 3). Then select a text color, shape, and shape color(colors can be selected with color key word or HEX value). When your logo.svg file is created it will show up in the svg-generator file. You can view it in any browser using view in browser or live server extension in vs code.
+To use this project you can type "node index.js" into the command line and you will be prompted with a number of questions. Type in the text you would like to be included in your svg logo(up to 3 characters). Then select a text color, shape, and shape color(colors can be selected with color key word or HEX value). When your logo.svg file is created it will show up in the svg-generator file. You can view it in any browser using view in browser or live server extension in vs code.
 
 ![Alt text](images/Screenshot%202023-04-24%20170937.png)
 
@@ -31,7 +31,7 @@ To use this project you can type "node index.js" into the command line and you w
 
 ![Alt text](images/Screenshot%202023-04-24%20171108.png)
 
-Here is a link to a walkthrough video: https://drive.google.com/file/d/1cDVSs6XK12N2om0aEmPbp6ZReE2ZqIib/view?usp=sharing
+Here is a link to a walkthrough video: https://drive.google.com/file/d/1RjiEtzwxCuKJ2Wqky1RjlBiJMfzovUvt/view?usp=sharing
 
 ## How to Contribute
 
